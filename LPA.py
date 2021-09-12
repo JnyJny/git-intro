@@ -6,7 +6,7 @@ def main():
     # moveit()
     # spatjoin()
     calclatlong()
-    # excel()
+    excel()
 
 
 def moveit():
